@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://manishkumar98.github.io/csb-8qmyr/static/js/main.a3133a41.chunk.js",
+    "main.js.map": "https://manishkumar98.github.io/csb-8qmyr/static/js/main.a3133a41.chunk.js.map",
+    "runtime-main.js": "https://manishkumar98.github.io/csb-8qmyr/static/js/runtime-main.69b81380.js",
+    "runtime-main.js.map": "https://manishkumar98.github.io/csb-8qmyr/static/js/runtime-main.69b81380.js.map",
+    "index.html": "https://manishkumar98.github.io/csb-8qmyr/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b81380.js",
+    "static/js/main.a3133a41.chunk.js"
+  ]
+}
